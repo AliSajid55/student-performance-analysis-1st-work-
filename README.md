@@ -46,6 +46,10 @@ affect students' **math**, **reading**, and **writing** scores.
 -  Combined Confusion Matrix Chart for All Models
 
 ---
+## Model Visualization
+
+![Model Comparison Plot](images/cm_plot.png)
+
 
 ## Dataset
 
